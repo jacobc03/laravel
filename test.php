@@ -1,3 +1,3 @@
 <?php
 
-echo 'I am a test file';
+echo 'I am a test';
